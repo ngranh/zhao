@@ -1,0 +1,8 @@
+name: 吳西
+sex: M
+dob: 1900
+desc:
+  - 開國少將
+  - 海軍後勤部副政委
+relationsOut:
+  - [吳黎明, 子]

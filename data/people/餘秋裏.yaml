@@ -1,0 +1,9 @@
+name: 餘秋裏
+sex: M
+dob: 1914
+dod: 1999
+desc:
+  - 開國中將
+  - 副總理
+relationsOut:
+  - [餘方方, 子]

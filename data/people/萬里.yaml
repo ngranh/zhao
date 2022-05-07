@@ -1,0 +1,17 @@
+name: 萬里
+sex: M
+dob: 1916
+dod: 2015
+desc:
+  - 副總理
+  - 全國人大委員長
+  - 安徽省委第一書記
+links:
+  - https://zh.wikipedia.org/wiki/%E4%B8%87%E9%87%8C
+relationsOut:
+  - [萬伯翱, 長子]
+  - [萬仲翔, 次子]
+  - [萬叔鵬, 長女]
+  - [萬季飛, 三子]
+  - [萬曉武, 四子]
+  - [邊濤, 妻]

@@ -1,0 +1,7 @@
+name: 沈譜
+sex: F
+desc:
+  - 中國造幣廠廠長
+relationsOut:
+  - [範東生, 子]
+  - [範小建, 子]

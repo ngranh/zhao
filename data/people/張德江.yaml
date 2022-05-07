@@ -1,0 +1,9 @@
+name: 張德江
+sex: M
+dob: 1946
+desc:
+  - 全國人大委員長
+  - 副總理
+  - 政治局常委
+relationsOut:
+  - [辛樹森, 妻]

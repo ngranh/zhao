@@ -1,0 +1,7 @@
+name: 陳蘭
+sex: F
+desc:
+  - 鄧子恢第3任妻
+relationsOut:
+  - [鄧淮生, 子]
+  - [鄧建生, 子]

@@ -1,0 +1,10 @@
+name: 呂正操
+sex: M
+dob: 1904
+dod: 2009
+desc:
+  - 開國上將
+  - 全國政協副主席
+  - 鐵道部部長
+relationsOut:
+  - [呂彤巖, 女]

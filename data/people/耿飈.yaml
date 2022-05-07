@@ -1,0 +1,19 @@
+name: 耿飈
+aliases:
+  原名: 耿在忠
+sex: M
+dob: 1909
+dod: 2000
+desc:
+  - 副總理
+  - 全國人大副委員長
+  - 國防部長
+links:
+  - https://zh.wikipedia.org/wiki/%E8%80%BF%E9%A3%9A
+relationsOut:
+  - [趙蘭香, 妻]
+  - [耿志深, 長子]
+  - [耿志遠, 次子]
+  - [耿瑩, 長女]
+  - [耿焱, 次女]
+  - [習近平, 祕書]

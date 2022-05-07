@@ -1,0 +1,13 @@
+name: 賀國強
+sex: M
+dob: 1943
+desc:
+  - 政治局常委
+  - 中紀委書記
+  - 重慶市委書記
+links:
+  - https://zh.wikipedia.org/wiki/%E8%B4%BA%E5%9B%BD%E5%BC%BA
+relationsOut:
+  - [賀錦濤, 長子]
+  - [賀錦雷, 次子]
+  - [賀錫強, 弟]

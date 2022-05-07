@@ -1,0 +1,10 @@
+name: 李小林
+sex: F
+dob: 1953
+desc:
+  - 李先念之女、劉亞洲之妻
+  - 中國人民對外友好協會會長、黨組書記
+links:
+  - https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%B0%8F%E6%9E%97
+relationsOut:
+  - [劉亞洲, 夫]

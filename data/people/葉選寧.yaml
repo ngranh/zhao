@@ -1,0 +1,16 @@
+name: 葉選寧
+aliases:
+  化名: 嶽楓
+  號稱: 太子黨精神領袖
+sex: M
+dob: 1938
+desc:
+  - 總政聯絡部部長
+  - 凱利公司董事長、總裁
+  - 少將軍銜
+links:
+  - https://zh.wikipedia.org/wiki/%E5%8F%B6%E9%80%89%E5%AE%81
+relationsOut:
+  - [錢寧戈, 妻]
+  - [葉弘, 子]
+  - [葉靜子, 女]

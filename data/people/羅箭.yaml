@@ -1,0 +1,11 @@
+name: 羅箭
+aliases:
+  曾用名: 羅小卿
+sex: M
+dob: 1938
+desc:
+  - 羅瑞卿之子、林楓女婿
+  - 總裝備部後勤部副政委
+  - 少將軍銜
+relationsOut:
+  - [林耿耿, 妻]

@@ -1,0 +1,16 @@
+name: 黃菊
+aliases:
+  原名: 黃德鈺
+sex: M
+dob: 1938
+dod: 2007
+desc:
+  - 政治局常委
+  - 副總理
+  - 上海市委書記
+links:
+  - https://zh.wikipedia.org/wiki/%E9%BB%84%E8%8F%8A
+relationsOut:
+  - [餘慧文, 妻]
+  - [黃凡, 女]
+  - [黃昔, 弟]

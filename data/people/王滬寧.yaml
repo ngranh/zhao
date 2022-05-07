@@ -1,0 +1,14 @@
+name: 王滬寧
+sex: M
+dob: 1955
+desc:
+  - 政治局常委
+  - 中央書記處書記
+  - 中央政策研究室主任
+  - 復旦大學國際政治系主任
+  - (被稱爲"三朝帝師")
+links:
+  - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%B2%AA%E5%AE%81
+relationsOut:
+  - [周琪, 妻]
+  - [肖佳靈, 妻]

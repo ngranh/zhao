@@ -1,0 +1,16 @@
+name: 趙壽山
+aliases:
+  原名: 趙生齡
+sex: M
+dob: 1894
+dod: 1965
+desc:
+  - 第一野戰軍副司令員
+  - 青海省政府主席
+  - 陝西省省長
+  - 與習仲勳交情很深
+  - 習被打倒後，趙親自找老毛爲習辯護
+links:
+  - https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%AF%BF%E5%B1%B1
+relationsOut:
+  - [趙喜民, 姪子]

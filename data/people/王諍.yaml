@@ -1,0 +1,10 @@
+name: 王諍
+sex: M
+dob: 1909
+dod: 1978
+desc:
+  - 開國中將
+  - 副總參謀長
+relationsOut:
+  - [王蘇民, 子]
+  - [王建新, 子]

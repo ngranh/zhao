@@ -1,0 +1,12 @@
+name: 鄧質方
+sex: M
+dob: 1952
+desc:
+  - 中信興業公司總經理
+  - 四方集團總裁
+  - 首長四方董事長(香港上市)
+  - 美國籍
+links:
+  - https://zh.wikipedia.org/wiki/%E9%82%93%E8%B4%A8%E6%96%B9
+relationsOut:
+  - [鄧卓棣, 子]

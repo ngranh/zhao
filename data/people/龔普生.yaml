@@ -1,0 +1,12 @@
+name: 龔普生
+sex: F
+dob: 1913
+dod: 2007
+desc:
+  - 外交部國際司副司長
+  - 首任駐愛爾蘭大使
+  - 龔鎮洲之女,章漢夫之妻
+links:
+  - https://zh.wikipedia.org/wiki/%E9%BE%9A%E6%99%AE%E7%94%9F
+relationsOut:
+  - [章漢夫, 夫]

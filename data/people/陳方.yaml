@@ -1,0 +1,10 @@
+name: 陳方
+sex: M
+desc:
+  - 陳雲之子、宋任窮女婿
+  - 廣東中山實業公司經理
+  - 美國籍
+links:
+  - https://zh.wikipedia.org/wiki/%E9%99%B3%E6%96%B9
+relationsOut:
+  - [宋珍珍, 妻]

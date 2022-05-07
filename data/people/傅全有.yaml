@@ -1,0 +1,10 @@
+name: 傅全有
+sex: M
+dob: 1930
+desc:
+  - 總參謀長
+  - 上將軍銜
+links:
+  - https://zh.wikipedia.org/wiki/%E5%82%85%E5%85%A8%E6%9C%89
+relationsOut:
+  - [傅勇, 子]

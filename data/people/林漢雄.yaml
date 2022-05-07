@@ -1,0 +1,9 @@
+name: 林漢雄
+sex: M
+dob: 1929
+desc:
+  - 建設部部長
+links:
+  - https://zh.wikipedia.org/wiki/%E6%9E%97%E6%B1%89%E9%9B%84
+relationsOut:
+  - [項蘇雲, 妻]

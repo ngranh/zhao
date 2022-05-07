@@ -1,0 +1,11 @@
+name: 鄧楠
+sex: F
+dob: 1945
+desc:
+  - 國家科技部副部長
+  - 中國科協黨組書記
+links:
+  - https://zh.wikipedia.org/wiki/%E9%82%93%E6%A5%A0
+relationsOut:
+  - [張宏, 夫]
+  - [卓苒, 女]

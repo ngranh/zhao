@@ -1,0 +1,11 @@
+name: 宋平
+sex: M
+dob: 1917
+desc:
+  - 政治局常委
+  - 中組部部長
+links:
+  - https://zh.wikipedia.org/wiki/%E5%AE%8B%E5%B9%B3
+relationsOut:
+  - [陳舜瑤, 妻]
+  - [宋宜純, 子]

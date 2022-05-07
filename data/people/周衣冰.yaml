@@ -1,0 +1,9 @@
+name: 周衣冰
+sex: M
+dob: 1922
+desc:
+  - 北京軍區司令
+  - 中將軍銜
+relationsOut:
+  - [周小周, 子]
+  - [周曉芳, 女]

@@ -1,0 +1,12 @@
+name: 陳良宇
+sex: M
+dob: 1946
+desc:
+  - 政治局委員
+  - 上海市委書記
+  - (牽涉上海社保基金案,判刑18年)
+links:
+  - https://zh.wikipedia.org/wiki/%E9%99%88%E8%89%AF%E5%AE%87
+relationsOut:
+  - [黃毅玲, 妻]
+  - [陳維力, 子]

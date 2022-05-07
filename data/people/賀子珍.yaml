@@ -1,0 +1,11 @@
+name: 賀子珍
+sex: F
+dob: 1910
+dod: 1984
+desc:
+  - 毛澤東第3任妻
+links:
+  - https://zh.wikipedia.org/wiki/%E8%B4%BA%E5%AD%90%E7%8F%8D
+relationsOut:
+  - [賀敏學, 兄]
+  - [李敏, 女]

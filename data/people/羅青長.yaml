@@ -1,0 +1,13 @@
+name: 羅青長
+sex: M
+dob: 1918
+dod: 2014
+desc:
+  - 中央調查部部長
+  - (中調部是國安部前身)
+links:
+  - https://zh.wikipedia.org/wiki/%E7%BD%97%E9%9D%92%E9%95%BF
+relationsOut:
+  - [羅挺, 次子]
+  - [羅援, 三子]
+  - [羅振, 四子]

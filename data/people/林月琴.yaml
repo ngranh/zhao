@@ -1,0 +1,12 @@
+name: 林月琴
+sex: F
+dob: 1914
+dod: 2003
+desc:
+  - 1955年授軍銜唯一女大校
+  - 吳先恩之妻
+  - 羅榮桓之妻
+links:
+  - https://zh.wikipedia.org/wiki/%E6%9E%97%E6%9C%88%E7%90%B4
+relationsOut:
+  - [吳先恩, 前夫]

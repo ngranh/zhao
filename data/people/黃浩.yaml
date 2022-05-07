@@ -1,0 +1,6 @@
+name: 黃浩
+sex: F
+desc:
+  - 黃鎮之女、戴秉國之妻
+relationsOut:
+  - [戴秉國, 夫]

@@ -1,0 +1,13 @@
+name: 葉選平
+sex: M
+dob: 1924
+desc:
+  - 葉劍英之子、吳玉章外孫女婿
+  - 廣東省長
+  - 全國政協副主席
+links:
+  - https://zh.wikipedia.org/wiki/%E5%8F%B6%E9%80%89%E5%B9%B3
+relationsOut:
+  - [吳小蘭, 妻]
+  - [葉新福, 子]
+  - [葉仲豪, 孫]

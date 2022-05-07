@@ -1,0 +1,12 @@
+name: 溫家寶
+aliases:
+  諢名: 影帝
+sex: M
+dob: 1942
+desc:
+  - 總理
+  - 政治局常委
+relationsOut:
+  - [張培莉, 妻]
+  - [溫雲松, 獨子]
+  - [溫如春, 獨女]

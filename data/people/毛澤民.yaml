@@ -1,0 +1,9 @@
+name: 毛澤民
+sex: M
+dob: 1896
+dod: 1943
+desc:
+  - 毛澤東之弟
+  - 中共元老
+relationsOut:
+  - [毛遠新, 子]

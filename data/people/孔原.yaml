@@ -1,0 +1,16 @@
+name: 孔原
+aliases:
+  原名: 陳鐵錚
+sex: M
+dob: 1906
+dod: 1990
+desc:
+  - 中央調查部部長
+  - (中調部是國安部前身)
+  - 國家海關總署署長
+links:
+  - https://zh.wikipedia.org/wiki/%E5%AD%94%E5%8E%9F
+relationsOut:
+  - [許明, 妻]
+  - [孔丹, 子]
+  - [孔棟, 子]

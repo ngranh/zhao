@@ -1,0 +1,11 @@
+name: 遲浩田
+sex: M
+dob: 1929
+desc:
+  - 總參謀長
+  - 國防部長
+  - 上將軍銜
+links:
+  - https://zh.wikipedia.org/wiki/%E8%BF%9F%E6%B5%A9%E7%94%B0
+relationsOut:
+  - [遲星北, 子]

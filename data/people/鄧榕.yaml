@@ -1,0 +1,13 @@
+name: 鄧榕
+aliases:
+  筆名: 蕭榕
+sex: F
+dob: 1950
+desc:
+  - 總政治部組織部副處長
+  - 中國國際友好聯絡會副會長
+links:
+  - https://zh.wikipedia.org/wiki/%E9%82%93%E6%A6%95
+relationsOut:
+  - [賀平, 夫]
+  - [卓玥, 女]

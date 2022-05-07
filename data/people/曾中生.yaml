@@ -1,0 +1,15 @@
+name: 曾中生
+aliases:
+  原名: 曾鍾聖
+sex: M
+dob: 1900
+dod: 1935
+desc:
+  - 黃埔軍校第4期
+  - 紅四軍政委
+  - 中央軍委確認的36位軍事家之一
+links:
+  - https://zh.wikipedia.org/wiki/%E6%9B%BE%E4%B8%AD%E7%94%9F
+relationsOut:
+  - [曾希聖, 弟]
+  - [黃傑, 妻]

@@ -1,0 +1,12 @@
+name: 葉選基
+sex: M
+dob: 1940
+desc:
+  - 葉劍英姪子、呂正操女婿
+  - 香港國葉集團主席
+  - 香港中信集團總經理
+  - 正天科技集團董事長
+links:
+  - https://zh.wikipedia.org/wiki/%E5%8F%B6%E9%80%89%E5%9F%BA
+relationsOut:
+  - [呂彤巖, 妻]

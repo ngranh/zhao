@@ -1,0 +1,12 @@
+name: 黃鎮
+sex: M
+dob: 1909
+dod: 1989
+desc:
+  - 中宣部副部長
+  - 外交部副部長
+links:
+  - https://zh.wikipedia.org/wiki/%E9%BB%84%E9%95%87
+relationsOut:
+  - [朱霖, 妻]
+  - [黃浩, 女]

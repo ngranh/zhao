@@ -1,0 +1,6 @@
+name: 姚明端
+sex: F
+desc:
+  - 姚依林之女、孟學農之妻
+relationsOut:
+  - [孟學農, 夫]

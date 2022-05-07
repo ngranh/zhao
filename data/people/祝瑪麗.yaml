@@ -1,0 +1,6 @@
+name: 祝瑪麗
+sex: F
+desc:
+  - 汪洋之妻、祝建遠之女
+relationsOut:
+  - [祝建遠, 父]

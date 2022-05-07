@@ -1,0 +1,6 @@
+name: 趙四軍
+sex: M
+desc:
+  - 趙紫陽之子、任仲夷女婿
+relationsOut:
+  - [任克英, 妻]

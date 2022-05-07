@@ -1,0 +1,11 @@
+name: 陳元
+sex: M
+desc:
+  - 中國國家開發銀行行長
+  - 中國人民銀行(央行)副行長
+  - 全國政協副主席
+links:
+  - https://zh.wikipedia.org/wiki/%E9%99%88%E5%85%83
+relationsOut:
+  - [陳曉欣, 子]
+  - [陳曉丹, 女]

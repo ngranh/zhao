@@ -1,0 +1,12 @@
+name: 李葆華
+sex: M
+dob: 1909
+dod: 2005
+desc:
+  - 中央委員
+  - 中國人民銀行行長、黨委書記
+links:
+  - https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%91%86%E5%8D%8E
+relationsOut:
+  - [李宏塔, 子]
+  - [李青, 子]

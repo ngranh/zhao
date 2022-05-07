@@ -1,0 +1,12 @@
+name: 張宗遜
+sex: M
+dob: 1908
+dod: 1998
+desc:
+  - 開國上將
+  - 副總參謀長
+  - 總後勤部部長
+links:
+  - https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%AE%97%E9%80%8A
+relationsOut:
+  - [張又俠, 子]

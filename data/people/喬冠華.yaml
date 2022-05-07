@@ -1,0 +1,14 @@
+name: 喬冠華
+sex: M
+dob: 1913
+dod: 1983
+desc:
+  - 外交部部長
+  - (文革後期成爲四人幫走狗)
+  - 龔澎之夫，章含之之夫
+links:
+  - https://zh.wikipedia.org/wiki/%E4%B9%94%E5%86%A0%E5%8D%8E
+relationsOut:
+  - [龔澎, 妻]
+  - [章含之, 妻]
+  - [喬宗淮, 子]

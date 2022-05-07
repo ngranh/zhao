@@ -1,0 +1,6 @@
+name: 錢韋
+sex: F
+desc:
+  - 錢嘉東之女、王毅之妻
+relationsOut:
+  - [錢嘉東, 父]

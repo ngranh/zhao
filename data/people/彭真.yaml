@@ -1,0 +1,18 @@
+name: 彭真
+aliases:
+  原名: 傅懋恭
+sex: M
+dob: 1902
+dod: 1997
+desc:
+  - 全國人大委員長
+  - 鄧小平時代的八元老之一
+  - 中組部部長
+links:
+  - https://zh.wikipedia.org/wiki/%E5%BD%AD%E7%9C%9F
+relationsOut:
+  - [張潔清, 妻]
+  - [傅銳, 長子]
+  - [傅洋, 次子]
+  - [傅亮, 三子]
+  - [傅彥, 長女]

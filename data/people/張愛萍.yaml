@@ -1,0 +1,18 @@
+name: 張愛萍
+aliases:
+  原名: 張端緒
+sex: M
+dob: 1910
+dod: 2003
+desc:
+  - 開國上將
+  - 副總理
+  - 國防部長
+links:
+  - https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%88%B1%E8%90%8D
+relationsOut:
+  - [李又蘭, 妻]
+  - [張翔, 長子]
+  - [張勝, 次子]
+  - [張品, 三子]
+  - [張小艾, 次女]

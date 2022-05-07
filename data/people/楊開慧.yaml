@@ -1,0 +1,11 @@
+name: 楊開慧
+sex: F
+dob: 1901
+dod: 1930
+desc:
+  - 毛澤東第2任妻
+links:
+  - https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%BC%80%E6%85%A7
+relationsOut:
+  - [毛岸英, 子]
+  - [毛岸青, 子]

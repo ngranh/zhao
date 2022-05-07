@@ -1,0 +1,16 @@
+name: 劉伯堅
+aliases:
+  原名: 劉永福
+sex: M
+dob: 1895
+dod: 1935
+desc:
+  - 中共元老
+  - 中共旅歐總支部書記
+  - (與周恩來一起赴法勤工儉學)
+  - 中央蘇區軍委祕書長
+  - 紅五軍團政治部主任
+links:
+  - https://zh.wikipedia.org/wiki/%E5%88%98%E4%BC%AF%E5%9D%9A
+relationsOut:
+  - [劉虎生, 子]

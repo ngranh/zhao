@@ -1,0 +1,16 @@
+name: 劉少奇
+sex: M
+dob: 1898
+dod: 1969
+desc:
+  - 中共中央副主席
+  - 國家主席
+links:
+  - https://zh.wikipedia.org/wiki/%E5%88%98%E5%B0%91%E5%A5%87
+relationsOut:
+  - [王光美, 妻]
+  - [劉允真, 子]
+  - [劉源, 子]
+  - [劉平平, 女]
+  - [劉亭亭, 女]
+  - [劉維明_1, 姪子]

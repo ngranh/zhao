@@ -1,0 +1,11 @@
+name: 鄒家華
+sex: M
+dob: 1926
+desc:
+  - 鄒韜奮之子、葉劍英女婿
+  - 副總理
+  - 全國人大副委員長
+links:
+  - https://zh.wikipedia.org/wiki/%E9%82%B9%E5%AE%B6%E5%8D%8E
+relationsOut:
+  - [葉楚梅, 妻]

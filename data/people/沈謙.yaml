@@ -1,0 +1,7 @@
+name: 沈謙
+sex: M
+desc:
+  - 中南海門診部內科主任
+  - 廣安門醫院副院長
+relationsOut:
+  - [沈人驊, 子]

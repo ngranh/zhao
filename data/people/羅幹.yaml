@@ -1,0 +1,10 @@
+name: 羅幹
+sex: M
+dob: 1935
+desc:
+  - 政治局常委
+  - 中央政法委書記
+links:
+  - https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B9%B2
+relationsOut:
+  - [羅韶宇, 姪子]

@@ -1,0 +1,11 @@
+name: 喬石
+aliases:
+  原名: 蔣志彤
+sex: M
+dob: 1924
+desc:
+  - 全國人大委員長
+  - 中紀委書記
+  - 政治局常委
+relationsOut:
+  - [蔣小明, 子]

@@ -1,0 +1,7 @@
+name: 周元青
+sex: M
+desc:
+  - 周永康之弟
+relationsOut:
+  - [周玲英, 妻]
+  - [周峯, 子]

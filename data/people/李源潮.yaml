@@ -1,0 +1,9 @@
+name: 李源潮
+sex: M
+dob: 1950
+desc:
+  - 國家副主席
+  - 中組部部長
+  - 政治局委員
+relationsOut:
+  - [李海進, 子]

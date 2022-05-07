@@ -1,0 +1,12 @@
+name: 萬季飛
+sex: M
+dob: 1948
+desc:
+  - 全國政協常務委員
+  - 國務院體改辦副主任
+  - 中國國際商會會長
+links:
+  - https://zh.wikipedia.org/wiki/%E4%B8%87%E5%AD%A3%E9%A3%9E
+relationsOut:
+  - [王曉民, 妻]
+  - [萬熒女, 女]

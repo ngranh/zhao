@@ -1,0 +1,18 @@
+name: 項英
+aliases:
+  原名: 項德隆
+sex: M
+dob: 1898
+dod: 1941
+desc:
+  - 中央蘇區軍委會代理主席
+  - 中央東南局書記
+  - 新四軍副軍長
+links:
+  - https://zh.wikipedia.org/wiki/%E9%A1%B9%E8%8B%B1
+relationsOut:
+  - [鄧毅生, 祕書]
+  - [張亮, 妻]
+  - [李又蘭, 妻]
+  - [項學成, 子]
+  - [項蘇雲, 女]

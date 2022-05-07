@@ -1,0 +1,11 @@
+name: 韓正
+sex: M
+dob: 1954
+desc:
+  - 政治局常委
+  - 副總理
+  - 上海市委書記
+links:
+  - https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%AD%A3
+relationsOut:
+  - [萬明, 妻]

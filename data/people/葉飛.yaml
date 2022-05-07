@@ -1,0 +1,20 @@
+name: 葉飛
+aliases:
+  原名: 葉啓亨
+  曾用名: 葉琛
+sex: M
+dob: 1914
+dod: 1999
+desc:
+  - 最年輕的開國上將
+  - 全國人大副委員長
+  - 海軍司令員
+  - 交通部部長
+  - 福建省省長
+links:
+  - https://zh.wikipedia.org/wiki/%E5%8F%B6%E9%A3%9E
+relationsOut:
+  - [王於畊, 妻]
+  - [葉小崎, 子]
+  - [葉小楠, 長女]
+  - [葉之樺, 次女]

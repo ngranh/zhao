@@ -1,0 +1,12 @@
+name: 李大釗
+sex: M
+dob: 1889
+dod: 1927
+desc:
+  - 中共主要創始人之一
+  - 共產國際的成員及其在中國的代理人
+links:
+  - https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%A7%E9%92%8A
+relationsOut:
+  - [李葆華, 子]
+  - [李光華, 子]

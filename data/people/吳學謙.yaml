@@ -1,0 +1,12 @@
+name: 吳學謙
+sex: M
+dob: 1921
+dod: 2008
+desc:
+  - 外交部長（1982年11月－1988年4月）
+  - 中央政治局委員（1985年9月－1992年10月）
+  - 副總理
+links:
+  - https://zh.wikipedia.org/wiki/%E5%90%B4%E5%AD%A6%E8%B0%A6
+relationsOut:
+  - [吳曉鏞, 子]

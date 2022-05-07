@@ -1,0 +1,9 @@
+name: 安子文
+sex: M
+dob: 1909
+desc:
+  - 中組部部長
+relationsOut:
+  - [安民, 子]
+  - [安黎, 女]
+  - [安志文, 弟]

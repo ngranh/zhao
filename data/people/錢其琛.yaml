@@ -1,0 +1,12 @@
+name: 錢其琛
+sex: M
+dob: 1928
+dod: 2017
+desc:
+  - 外交部長
+  - 副總理
+links:
+  - https://zh.wikipedia.org/wiki/%E9%92%B1%E5%85%B6%E7%90%9B
+relationsOut:
+  - [錢其璈, 弟]
+  - [錢寧, 子]

@@ -1,0 +1,16 @@
+name: 江青
+aliases:
+  原名: 李雲鶴
+  藝名: 藍蘋
+sex: F
+dob: 1914
+dod: 1991
+desc:
+  - 毛澤東第4任妻
+  - 政治局委員
+  - 中央文革小組組長
+  - 臭名昭著的四人幫之首
+links:
+  - https://zh.wikipedia.org/wiki/%E6%B1%9F%E9%9D%92
+relationsOut:
+  - [李訥, 女]

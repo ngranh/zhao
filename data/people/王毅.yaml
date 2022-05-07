@@ -1,0 +1,10 @@
+name: 王毅
+sex: M
+dob: 1953
+desc:
+  - 國務委員
+  - 外交部長
+links:
+  - https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%AF%85
+relationsOut:
+  - [錢韋, 妻]

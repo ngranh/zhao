@@ -1,0 +1,15 @@
+name: 林育英
+aliases:
+  化名: 張浩
+sex: M
+dob: 1897
+dod: 1942
+desc:
+  - 援西軍政委
+  - (後改組爲"八路軍129師")
+  - 病逝後，毛澤東、朱德、任弼時親自抬棺
+links:
+  - https://zh.wikipedia.org/wiki/%E6%9E%97%E8%82%B2%E8%8B%B1
+relationsOut:
+  - [林漢雄, 子]
+  - [林彪, 弟]

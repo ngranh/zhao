@@ -1,0 +1,17 @@
+name: 陳錫聯
+aliases:
+  原名: 陳錫廉
+sex: M
+dob: 1915
+dod: 1999
+desc:
+  - 開國上將
+  - 政治局委員
+  - 副總理
+  - 瀋陽軍區司令
+  - 北京軍區司令
+links:
+  - https://zh.wikipedia.org/wiki/%E9%99%88%E9%94%A1%E8%81%94
+relationsOut:
+  - [王璇梅, 妻]
+  - [陳再方, 子]

@@ -1,0 +1,7 @@
+name: 陸迪倫
+sex: F
+desc:
+  - 蘇振華第3任妻
+relationsOut:
+  - [陸一, 子]
+  - [陸二, 子]

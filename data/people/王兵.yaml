@@ -1,0 +1,6 @@
+name: 王兵
+sex: M
+desc:
+  - 中國海洋直升機集團董事長
+relationsOut:
+  - [王京陽, 子]

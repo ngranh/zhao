@@ -1,0 +1,23 @@
+root: true
+parser: '@typescript-eslint/parser'
+parserOptions:
+    project: "./tsconfig.json"
+plugins:
+    - '@typescript-eslint'
+extends:
+    - eslint:recommended
+    - plugin:@typescript-eslint/strict
+rules:
+    comma-dangle: [error, always-multiline]
+    dot-location: [error, property]
+    function-paren-newline: [error, consistent]
+    indent: [error, 2]
+    lines-between-class-members: [error, always, { exceptAfterSingleLine: true }]
+    max-len: error
+    multiline-ternary: [error, always-multiline]
+    new-cap: [error, { capIsNew: false, newIsCap: false }]
+    nonblock-statement-body-position: [error, below]
+    quotes: error
+    semi: error
+    sort-imports: error
+    space-before-function-paren: [error, { named: never }]

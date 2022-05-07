@@ -1,0 +1,12 @@
+name: 葉選廉
+sex: M
+dob: 1952
+desc:
+  - 深圳國葉實業董事長
+  - 國基控股總裁
+  - 世紀星源股東
+links:
+  - https://zh.wikipedia.org/wiki/%E5%8F%B6%E9%80%89%E5%BB%89
+relationsOut:
+  - [蘇丹丹, 妻]
+  - [葉明子, 長女]

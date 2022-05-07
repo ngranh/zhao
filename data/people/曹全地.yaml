@@ -1,0 +1,6 @@
+name: 曹全地
+sex: F
+desc:
+  - 鄧子恢第1任妻
+relationsOut:
+  - [鄧毅生, 子]

@@ -1,0 +1,9 @@
+name: 孔從洲
+sex: M
+dob: 1912
+dod: 1991
+desc:
+  - 開國中將
+  - 炮兵副司令
+relationsOut:
+  - [孔令華, 子]

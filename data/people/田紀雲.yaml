@@ -1,0 +1,14 @@
+name: 田紀雲
+sex: M
+dob: 1929
+desc:
+  - 政治局委員
+  - 副總理
+  - 全國人大副委員長
+links:
+  - https://zh.wikipedia.org/wiki/%E7%94%B0%E7%BA%AA%E4%BA%91
+relationsOut:
+  - [田承剛, 子]
+  - [田湘黔, 女]
+  - [田紀震, 弟]
+  - [田健, 堂弟]
