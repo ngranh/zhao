@@ -1,0 +1,26 @@
+<!doctype html><html lang="zh"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>趙家人</title><style>body{
+            margin: 0;
+            overflow: hidden;
+        }
+        div#svg-container {
+            height: 100%; width: 100%;
+        }
+        svg {
+            height: 2000px; width: 2000px;
+            left: 50%; top: 50%;
+            position: absolute;
+            transform: translate(-50%, -50%); -webkit-transform: translate(-50%, -50%);
+            user-select: none; -moz-user-select: none; -ms-user-select: none; -webkit-user-select: none;
+        }
+        g#links-c>g>line { stroke: #FC4; stroke-width: 3; }
+        g#links-c>g>text>textPath { alignment-baseline: middle; font-family: sans-serif; font-size: 1rem; fill: #FC4; }
+        g#links-p>g>line { stroke: #F44; stroke-width: 3; }
+        g#links-p>g>text>textPath { alignment-baseline: middle; font-family: sans-serif; font-size: 1rem; fill: #F44; }
+        g#nodes-c>g.focused>circle { fill: #FC4; }
+        g#nodes-c>g.focused>text { fill: #FFF !important; }
+        g#nodes-c>g>circle { fill: #FFF; stroke: #FC4; r: 4rem; stroke-width: 3; transition: fill 1s; }
+        g#nodes-c>g>text { alignment-baseline: middle; font-family: serif; font-size: 2rem; font-weight: bold; text-anchor: middle; transition: fill 1s; fill: #FC4; }
+        g#nodes-p>g.focused>circle { fill: #F44; }
+        g#nodes-p>g.focused>text { fill: #FFF !important; }
+        g#nodes-p>g>circle { fill: #FFF; stroke: #F44; r: 4rem; stroke-width: 3; transition: fill 1s; }
+        g#nodes-p>g>text { alignment-baseline: middle; font-family: serif; font-size: 2rem; font-weight: bold; text-anchor: middle; transition: fill 1s; fill: #F44; }</style><script src="bundle.js"></script><script defer="defer" src="bundle.js"></script></head><body><div id="svg-container"><svg viewBox="-1000,-1000,2000,2000"><g id="root" transform="translate(0, 0) scale(1)"></g></svg></div></body></html>
